@@ -1,12 +1,22 @@
+ul,
+li,
+form {
+  display: inline-block;
+}
+
+li {
+    margin: 1rem;
+}
+
 .App-logo {
   height: 80px;
+  margin: 0.5rem;
 }
 
 .App-header {
-  background-color: floralwhite;
+  background-color: white;
   height: 100px;
-  padding: 20px;
-  color: white;
+  padding: 1.5rem;
 }
 
 .App-title {
